@@ -1,7 +1,5 @@
 # bot developer @mr_jisshu
 from os import environ 
-
-class Config:
     
     API_ID = environ.get("API_ID", "28528300")
     API_HASH = environ.get("API_HASH", "de0db40bc15ebea5b7ce123bf57a4eb9")
