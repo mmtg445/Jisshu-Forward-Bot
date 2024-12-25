@@ -1,4 +1,5 @@
 pyrofork
+pyrogram==1.0.0
 motor
 TgCrypto
 Dnspython
